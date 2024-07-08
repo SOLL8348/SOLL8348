@@ -7,6 +7,17 @@ I am The SOLL Head with the purpose to educate individuals on how to stay safe n
 - 👯 I’m looking to collaborate on security research, risk management and blockchain projects.
 
 I am a builder, a researcher, a specialist and the list is endless but I prefer you call me **SOLL** - I will save you and the soll (soul) of your projects.
+
+## 🧊⛓️ Blockchain Projects 
+- Community and Ecosystem Buidling
+
+- Project Buidling
+
+
+## 💻🔐 Cybersecurity Projects
+
+
+## 🎓🙍 Certifications and Skill Badges
 <!--
 **SOLL8348/SOLL8348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
