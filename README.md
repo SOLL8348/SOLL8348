@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My legal name is Iberedem Udo 
+
+I AM Soll and Head of The SOLL.
+
 
 <!--
 **SOLL8348/SOLL8348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
