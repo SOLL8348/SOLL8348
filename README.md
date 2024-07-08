@@ -16,7 +16,7 @@ I am an associate, a buidloor, a specialist and the list is endless but I prefer
 
 ## 💻🔐 Cybersecurity Projects
 - Labs
--- CISCO Packet Tracer
+• CISCO Packet Tracer
 - Internship Experience
 
 - CTFs
