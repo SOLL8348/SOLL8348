@@ -6,7 +6,7 @@ I am The SOLL Head with the purpose to educate individuals on how to stay safe n
 - 🌱 I’m currently learning to implement ISO 27001:2022 and provide security consultation services to projects and organizations.
 - 👯 I’m looking to collaborate on security research, risk management and blockchain projects.
 
-I am a builder, a researcher, a specialist and the list is endless but I prefer you call me **SOLL** - I will save you and the soll (soul) of your projects.
+I am a builder, a researcher, an associate and a specialist and the list is endless but I prefer you call me **SOLL** - I will save you and the soll (soul) of your projects.
 
 ## 🧊⛓️ Blockchain Projects 
 - Community and Ecosystem Buidling
