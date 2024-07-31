@@ -1,4 +1,4 @@
-## GM GM 😄 My legal name is Iberedem Udo 
+## GM GM 😄 My name is Iberedem Udo 
 
 I am The SOLL Head with the purpose to educate individuals on how to stay safe navigating the cyber space and make positive contributions to the growth of individuals, blockchain communities and projects.
 
